@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/P/static/css/main.b2ee156e.css",
-    "main.js": "/P/static/js/main.a5154047.js",
-    "static/js/453.cfb31391.chunk.js": "/P/static/js/453.cfb31391.chunk.js",
-    "static/media/Credit.jpg": "/P/static/media/Credit.b040aa28cf5b7bbdc3ae.jpg",
-    "static/media/Swire.jpg": "/P/static/media/Swire.8fb351e6df037a87871e.jpg",
-    "static/media/Environmental.jpg": "/P/static/media/Environmental.cd0b1d0bb7e6e6ceabfe.jpg",
-    "static/media/Retail.jpg": "/P/static/media/Retail.e4d518e5a6bdb79e1dd7.jpg",
-    "static/media/LTIM.NS.png": "/P/static/media/LTIM.NS.ea9bddd52bc473441be7.png",
-    "static/media/web avenue.png": "/P/static/media/web avenue.55af1d0b058e49b5c79d.png",
-    "index.html": "/P/index.html",
-    "main.b2ee156e.css.map": "/P/static/css/main.b2ee156e.css.map",
-    "main.a5154047.js.map": "/P/static/js/main.a5154047.js.map",
-    "453.cfb31391.chunk.js.map": "/P/static/js/453.cfb31391.chunk.js.map"
+    "main.css": "/p/static/css/main.b2ee156e.css",
+    "main.js": "/p/static/js/main.ed457621.js",
+    "static/js/453.cfb31391.chunk.js": "/p/static/js/453.cfb31391.chunk.js",
+    "static/media/Credit.jpg": "/p/static/media/Credit.b040aa28cf5b7bbdc3ae.jpg",
+    "static/media/Swire.jpg": "/p/static/media/Swire.8fb351e6df037a87871e.jpg",
+    "static/media/Environmental.jpg": "/p/static/media/Environmental.cd0b1d0bb7e6e6ceabfe.jpg",
+    "static/media/Retail.jpg": "/p/static/media/Retail.e4d518e5a6bdb79e1dd7.jpg",
+    "static/media/LTIM.NS.png": "/p/static/media/LTIM.NS.ea9bddd52bc473441be7.png",
+    "static/media/web avenue.png": "/p/static/media/web avenue.55af1d0b058e49b5c79d.png",
+    "index.html": "/p/index.html",
+    "main.b2ee156e.css.map": "/p/static/css/main.b2ee156e.css.map",
+    "main.ed457621.js.map": "/p/static/js/main.ed457621.js.map",
+    "453.cfb31391.chunk.js.map": "/p/static/js/453.cfb31391.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b2ee156e.css",
-    "static/js/main.a5154047.js"
+    "static/js/main.ed457621.js"
   ]
 }
